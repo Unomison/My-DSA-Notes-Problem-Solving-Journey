@@ -1,2 +1,50 @@
-# My-DSA-Notes-Problem-Solving-Journey
-POW
+# My DSA Notes & Problem-Solving Journey 🚀
+
+Welcome to my Data Structures and Algorithms repository! This repository documents my journey of learning DSA, improving problem-solving skills, and preparing for software engineering interviews.
+
+## 📚 Handwritten Notes
+
+My handwritten notes covering important DSA concepts.
+
+| Notes | Description |
+|---|---|
+| [DSA Notes 1](Notes/DSA_Notes_1.pdf) | Concepts and handwritten explanations |
+| [DSA Notes 2](Notes/DSA_Notes_2.pdf) | Concepts and handwritten explanations |
+| [DSA Notes 3](Notes/DSA_Notes_3.pdf) | Concepts and handwritten explanations |
+
+## 💻 Topics Covered
+
+- Arrays
+- Strings
+- Searching & Sorting
+- Recursion & Backtracking
+- Linked Lists
+- Stacks & Queues
+- Trees & Binary Search Trees
+- Graphs
+- Dynamic Programming
+- Greedy Algorithms
+- Bit Manipulation
+- Sliding Window
+- Two Pointers
+
+## 🎯 Goals
+
+- Strengthen problem-solving skills
+- Understand algorithms instead of memorizing solutions
+- Write optimized and clean C++ code
+- Prepare for software engineering interviews
+- Maintain a consistent record of my learning journey
+
+## 🛠️ Languages
+
+- C++
+- STL
+
+## 📈 My Progress
+
+Continuously learning, solving problems, revising concepts, and adding new notes and solutions.
+
+---
+
+⭐ If you find this repository useful, feel free to explore!
