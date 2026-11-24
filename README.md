@@ -1,6 +1,6 @@
 # My DSA Notes & Problem-Solving Journey 🚀
 
-Welcome to my Data Structures and Algorithms repository! This repository documents my journey of learning DSA, improving problem-solving skills, and preparing for software engineering interviews.
+Welcome to my Data Structures and Algorithms repository! This repository documents my journey of learning DSA, improving problem-solving skills, and preparing for software engineering interviews where each dsa problem has been given enough time it deserves from thinking to code implementation.
 
 ## 📚 Handwritten Notes
 
