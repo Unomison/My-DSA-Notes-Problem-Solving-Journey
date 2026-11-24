@@ -8,9 +8,9 @@ My handwritten notes covering important DSA concepts.
 
 | Notes | Description |
 |---|---|
-| [DSA Notes 1](Notes/DSA_Notes_1.pdf) | Concepts and handwritten explanations |
-| [DSA Notes 2](Notes/DSA_Notes_2.pdf) | Concepts and handwritten explanations |
-| [DSA Notes 3](Notes/DSA_Notes_3.pdf) | Concepts and handwritten explanations |
+| [DSA Notes 1]([Notes/DSA_Notes_1.pdf](https://github.com/Unomison/My-DSA-Notes-Problem-Solving-Journey/releases/tag/DSA-notes)) | Concepts and handwritten explanations |
+| [DSA Notes 2]([Notes/DSA_Notes_2.pdf](https://github.com/Unomison/My-DSA-Notes-Problem-Solving-Journey/releases/tag/DSA-notes)) | Concepts and handwritten explanations |
+| [DSA Notes 3]([Notes/DSA_Notes_3.pdf](https://github.com/Unomison/My-DSA-Notes-Problem-Solving-Journey/releases/tag/DSA-notes)) | Concepts and handwritten explanations |
 
 ## 💻 Topics Covered
 
